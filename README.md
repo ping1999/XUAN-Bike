@@ -1,5 +1,7 @@
 # XUAN-Bike
 
+![](2.Structure/xuan.jpg)
+
 > 项目视频：[【自制】我把自行车做成了 自 动 驾 驶 ！！【硬核】](https://www.bilibili.com/video/BV1fV411x72a)
 
 ## 文件说明
