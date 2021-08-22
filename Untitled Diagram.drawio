@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T06:13:14.641Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="gQ0Gkh0Otqqrh67q24fz" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T06:13:45.599Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="Oz9cSZef08zs515Ti7vE" version="14.9.8" type="github">
   <diagram id="gPBAJwZcKuSn6ALT_lkh" name="Page-1">
     <mxGraphModel dx="1038" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -384,7 +384,7 @@
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-112" value="中心板2" style="ellipse;whiteSpace=wrap;html=1;fillColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="385" y="545" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8O0__Qe_Hwb1zvDIcUSA-113" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="8O0__Qe_Hwb1zvDIcUSA-40">
+        <mxCell id="8O0__Qe_Hwb1zvDIcUSA-113" value="" style="shape=flexArrow;endArrow=classic;html=1;fontColor=#000000;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=block;fillColor=#99CCFF;" edge="1" parent="1" source="8O0__Qe_Hwb1zvDIcUSA-40">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="170" as="sourcePoint" />
             <mxPoint x="470" y="110" as="targetPoint" />
