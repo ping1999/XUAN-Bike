@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T04:59:55.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="ueZMIwuf9xoe-cWrxCCt" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T05:00:13.939Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="_mYL9yNStosVf9mksfXh" version="14.9.8" type="github">
   <diagram id="gPBAJwZcKuSn6ALT_lkh" name="Page-1">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-1" value="Robomaster A板" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-8" value="左2312s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="405" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="405" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-9" value="右2312s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="455" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="455" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-19" value="红色镭射" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="355" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="355" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-24" value="Mini PC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="300" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="300" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-33" value="弹链微动开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="505" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="505" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-36" value="弹链微动开关" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="557.5" width="60" height="40" as="geometry" />
+          <mxGeometry x="10" y="557.5" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-40" value="电源管理模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="410" y="180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
