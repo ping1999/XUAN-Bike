@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-22T05:01:56.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="_4_aobjUG8BYC9SoGtp4" version="14.9.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-22T05:02:22.905Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36 Edg/92.0.902.78" etag="ma8q65urc9izpaRtEtFM" version="14.9.8" type="github">
   <diagram id="gPBAJwZcKuSn6ALT_lkh" name="Page-1">
     <mxGraphModel dx="1221" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="8O0__Qe_Hwb1zvDIcUSA-41" value="Pitch轴GM6020" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="610" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8O0__Qe_Hwb1zvDIcUSA-42" value="遥控器接收机" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
